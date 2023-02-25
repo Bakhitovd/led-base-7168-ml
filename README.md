@@ -6,13 +6,17 @@ https://docs.google.com/document/d/1uo41ID5GmhX97GIxfGFgV4MGYhVEYzrJjk-87nhth4A/
 - Text Summarization Techniques: A Brief Survey https://arxiv.org/abs/1707.02268
 - A Comprehensive Survey of Abstractive Text Summarization Based on Deep Learning https://www.hindawi.com/journals/cin/2022/7132226/
 - Get To The Point: Summarization with Pointer-Generator Networks https://arxiv.org/abs/1704.04368
+- 
 - Pretraining-Based Natural Language Generation for Text Summarization https://arxiv.org/abs/1902.09243
 - A Deep Reinforced Model for Abstractive Summarization https://arxiv.org/abs/1705.04304
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by Jacob Devlin et al. (2018) https://arxiv.org/pdf/1810.04805.pdf
 - Pegasus: Pre-training with Extracted Gap-sentences for Abstractive Summarization https://arxiv.org/pdf/1912.08777.pdf
 - "Hierarchical Transformers for Long Document Summarization" by Yang Liu et al. (2019) https://arxiv.org/pdf/1905.13164.pdf
 
-
+- "Neural Summarization by Extracting Sentences and Words
+- -Ranking Sentences for Extractive Summarization with Reinforcement Learning
+- Deep Learning for Abstractive Document Summarization Based on Jointly Learning to Score and Select Sentences
+- A Deep Reinforced Model for Abstractive Summarization
 - "Fine-tune BERT for Extractive Summarization" by Yang Liu and Mirella Lapata (2019)
 - "SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents" by R. Nallapati, B. Zhou, C. dos Santos, C. Gulcehre, and B. Xiang (2017)
 
