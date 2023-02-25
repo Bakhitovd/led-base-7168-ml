@@ -5,6 +5,7 @@ https://docs.google.com/document/d/1uo41ID5GmhX97GIxfGFgV4MGYhVEYzrJjk-87nhth4A/
 ## Leterature overview 
 - Text Summarization Techniques: A Brief Survey https://arxiv.org/abs/1707.02268
 - A Comprehensive Survey of Abstractive Text Summarization Based on Deep Learning https://www.hindawi.com/journals/cin/2022/7132226/
+- - “A neural attention model for abstractive sentence summarization
 - Get To The Point: Summarization with Pointer-Generator Networks https://arxiv.org/abs/1704.04368
 - 
 - Pretraining-Based Natural Language Generation for Text Summarization https://arxiv.org/abs/1902.09243
