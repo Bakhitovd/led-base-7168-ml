@@ -13,16 +13,16 @@ https://docs.google.com/document/d/1uo41ID5GmhX97GIxfGFgV4MGYhVEYzrJjk-87nhth4A/
 - "Hierarchical Transformers for Long Document Summarization" by Yang Liu et al. (2019) https://arxiv.org/pdf/1905.13164.pdf
 
 
--"Fine-tune BERT for Extractive Summarization" by Yang Liu and Mirella Lapata (2019)
--"SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents" by R. Nallapati, B. Zhou, C. dos Santos, C. Gulcehre, and B. Xiang (2017)
+- "Fine-tune BERT for Extractive Summarization" by Yang Liu and Mirella Lapata (2019)
+- "SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents" by R. Nallapati, B. Zhou, C. dos Santos, C. Gulcehre, and B. Xiang (2017)
 
--"Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting" by Jiacheng Xu et al. (2018)
--"Attention Is All You Need" by Ashish Vaswani et al. (2017)
--"ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks" by Yasunori Yamamoto, Masaru Isonuma, Katsuhiko Hayashi, Taichi Yatsuka, and Masaaki Yasuda (2020)
--"BERTSUM: Text Summarization as a Supervised Learning Task" by Y. Liu and M. Lapata (2019)
+- "Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting" by Jiacheng Xu et al. (2018)
+- "Attention Is All You Need" by Ashish Vaswani et al. (2017)
+- "ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks" by Yasunori Yamamoto, Masaru Isonuma, Katsuhiko Hayashi, Taichi Yatsuka, and Masaaki Yasuda (2020)
+- "BERTSUM: Text Summarization as a Supervised Learning Task" by Y. Liu and M. Lapata (2019)
 
--"A Hierarchical End-to-End Model for Jointly Improving Text Summarization and Sentiment Classification" by L. Dong, N. Yang, W. Chou, and M. Bansal (2018)
--"Adapting the Neural Encoder-Decoder Framework from Single to Multi-Document Summarization" by Jiwei Li, Mihai Popescu, Ming-Wei Chang, and John M. Campbell (2017)
+- "A Hierarchical End-to-End Model for Jointly Improving Text Summarization and Sentiment Classification" by L. Dong, N. Yang, W. Chou, and M. Bansal (2018)
+- "Adapting the Neural Encoder-Decoder Framework from Single to Multi-Document Summarization" by Jiwei Li, Mihai Popescu, Ming-Wei Chang, and John M. Campbell (2017)
 
 
 
