@@ -12,3 +12,4 @@ https://docs.google.com/document/d/1uo41ID5GmhX97GIxfGFgV4MGYhVEYzrJjk-87nhth4A/
 - Pegasus: Pre-training with Extracted Gap-sentences for Abstractive Summarization https://arxiv.org/pdf/1912.08777.pdf
 - Pretraining-Based Natural Language Generation for Text Summarization https://arxiv.org/abs/1902.09243
 - A Deep Reinforced Model for Abstractive Summarization https://arxiv.org/abs/1705.04304
+- Automatic Text Summarization of COVID-19 Scientific Research Topics Using Pre-trained Models from Hugging Face (2022)
