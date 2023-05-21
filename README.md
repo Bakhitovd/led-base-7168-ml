@@ -1,3 +1,8 @@
+## <p align=center>`Fine-tuned Longformer for Summarization of Machine Learning Articles`</p>
+[led-base-7168-ml](https://huggingface.co/bakhitovd/led-base-7168-ml) is a `Longformer` model fine-tuned on atricles related to machine learning topics for long-document summarization task.
+
+
+
 # Enhancing Summarization of Specific Domain Long Documents through Fine-Tuning Longformer on a Focused Dataset
 ## Abstract
 This study aimed to develop an efficient summarization model for machine learning articles by fine-tuning a Longformer model on a focused subset of the arXiv scientific dataset. The performance of the fine-tuned model was compared to state-of-the-art models trained on the full arXiv dataset, demonstrating improved summarization results. This highlights the importance of training natural language processing models on focused and relevant datasets for specific tasks.
