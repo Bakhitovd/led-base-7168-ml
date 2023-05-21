@@ -34,4 +34,4 @@ summary = tokenizer.decode(predicted_abstract_ids, skip_special_tokens=True)
 print(summary)
 
 ```
-or you can use `summarization.ipynb` notebook. 
+or you can use `summarization.ipynb` notebook. This code extracts the content of an online article, generates a summary of the article using a pretrained transformer model `led-base-7168-ml`, and then displays the summary in an HTML format in an IPython environment. The script uses BeautifulSoup for web scraping, requests for HTTP requests, and PyTorch along with the transformers library for summarization.
