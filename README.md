@@ -1,5 +1,5 @@
 ## <p align=center>`Fine-tuned Longformer for Summarization of Machine Learning Articles`</p>
-## [Paper](https://github.com/Bakhitovd/led-base-7168-ml/blob/main/Bakhitov%20Summarization%20of%20Specific%20Domain%20Long%20Documents%20through%20Fine-Tuning%20Longformer.pdf)
+## Read the [Paper](https://github.com/Bakhitovd/led-base-7168-ml/blob/main/Bakhitov%20Summarization%20of%20Specific%20Domain%20Long%20Documents%20through%20Fine-Tuning%20Longformer.pdf) first
 # Model
 The [led-base-7168-ml](https://huggingface.co/bakhitovd/led-base-7168-ml) is a `Longformer`  model fine-tuned on a [ML_arxiv](https://huggingface.co/datasets/bakhitovd/ML_arxiv) dataset containing articles related to machine-learning topics for long-document summarization task.
 
